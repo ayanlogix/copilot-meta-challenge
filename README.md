@@ -1,4 +1,4 @@
-# 🤖 Copilot Meta Challenge — MLH Global Hack Week GenAI 2025
+# 🤖 Copilot Meta Challenge - MLH Global Hack Week GenAI 2025
 
 > Used **GitHub Copilot** to accelerate and complete multiple MLH challenges!
 
